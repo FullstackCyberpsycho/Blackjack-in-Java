@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Blackjack with Java:jar">
+    <output-path>$PROJECT_DIR$/Blackjack_with_Java_jar</output-path>
+    <root id="archive" name="Blackjack in Java.jar">
+      <element id="module-output" name="Blackjack in Java" />
+    </root>
+  </artifact>
+</component>
